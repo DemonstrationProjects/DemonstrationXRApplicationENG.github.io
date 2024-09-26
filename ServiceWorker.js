@@ -1,4 +1,4 @@
-const cacheName = "PrototypeForSSVR-DemonstrationXRApplication-0.0.0.1";
+const cacheName = "PrototypeForSSVR-DemonstrationXRApplication-0.0.1.0";
 const contentToCache = [
     "Build/DemonstrationXRApplicationENG.github.io.loader.js",
     "Build/DemonstrationXRApplicationENG.github.io.framework.js",
